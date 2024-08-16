@@ -1,6 +1,6 @@
 <h1>WiFi Bridge Capstone Project</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [VAP11G-500S WiFi Bridge - Presentation](https://docs.google.com/presentation/d/1t0SMQQkE5Q8MOKGJzoYrtoYC0JShRMk5Qehn9oJ4G6E/edit?usp=sharing)
 
 <h2>Description</h2>
 This capstone was a very technical applicable project and a great experience. The objective to create a separate Wireless Access Point (JOOWIN-2G)to support devices without Ethernet connectivity with a Wireless WiFi Bridge (VONETS_2.4G_789C) powered with 24V given. 
