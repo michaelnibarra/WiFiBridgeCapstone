@@ -28,7 +28,7 @@ VAP11G-500S: <br/>
 <img src="https://i.imgur.com/AkjNxnn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+<p align="center">
 Launch Heat Exchange / Box Sorter: <br/>
 <img src="https://i.imgur.com/rpcR362.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
